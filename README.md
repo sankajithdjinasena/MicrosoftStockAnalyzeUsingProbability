@@ -1,3 +1,39 @@
+# 📊 Microsoft Stock Dataset Overview
+
+## About Dataset
+
+### Context
+Microsoft is an American company that develops and distributes software and services such as a search engine (Bing), cloud solutions, and the Windows operating system.
+
+- **Market Cap:** $3.085 Trillion USD (as of February 2025)  
+- **Global Rank:** 2nd most valuable company by market cap  
+- **Revenue (2024, TTM):** $254.19 Billion USD  
+- **Earnings (2024, TTM):** $110.77 Billion USD  
+
+Market capitalization (Market Cap) represents the total market value of Microsoft’s outstanding shares and reflects the company’s total worth in public markets.
+
+### Data Source Summary
+- **Geography:** USA  
+- **Time Period:** March 1986 – February 2025  
+- **Unit of Analysis:** Microsoft Stock Data 2025  
+
+| Variable | Description |
+|-----------|--------------|
+| `date` | Trading day date |
+| `open` | Price at market open |
+| `high` | Highest price of the day |
+| `low` | Lowest price of the day |
+| `close` | Price at market close (adjusted for splits) |
+| `adj_close` | Closing price adjusted for splits and dividends (CRSP standard) |
+| `volume` | Number of shares traded that day |
+
+### Sources
+- Nasdaq  
+- CompaniesMarketCap  
+- Yahoo Finance  
+
+---
+
 
 # Microsoft Stock Data - Comprehensive Probability Theory Analysis
 
